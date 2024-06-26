@@ -35,6 +35,7 @@ brazen;1
 hosbein;1
 dartmouth;1
 photoconductivity;1
+rascally;1
 selfseeker;1
 ashia;1
 godown;1
@@ -58,10 +59,12 @@ ame;1
 spectacles;1
 lushy;1
 resht;1
+corrade;1
 noami;1
 eberta;1
 aland;1
 leeann;1
+vicar;1
 fraase;1
 milepost;1
 panocha;1
@@ -107,6 +110,7 @@ drypoint;1
 cushitic;1
 trona;1
 wilheminawilhide;1
+lowrance;1
 giselle;1
 marler;1
 tinstone;1
